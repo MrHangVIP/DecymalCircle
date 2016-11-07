@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<declare-styleable name="dycmalCircle">
+
+		<attr name="changerate" format="integer"/>
+		<attr name="frontcolor" format="color"/>
+		<attr name="backcolor" format="color"/>
+
+	</declare-styleable>
+    
+</resources>
